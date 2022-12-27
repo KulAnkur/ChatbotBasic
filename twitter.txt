@@ -1,0 +1,88 @@
+define twitter
+Twitter is a microblogging and social networking service on which users post and interact with messages known as tweets owned by American company Twitter Inc Registered users can post
+like and retweet tweets however unregistered users have the ability to only read tweets that are publicly available Users interact with Twitter through browser or mobile frontend software 
+or programmatically via its APIs Prior to April 2020 services were accessible via SMS9 Tweets were originally restricted to 140 characters but the limit was doubled to 280 for nonCJK languages
+in November 2017 Audio and video tweets remain limited to 140 seconds for most accounts.
+
+Creator
+Twitter was created by Jack Dorsey Noah Glass Biz Stone and Evan Williams in March 2006 and launched in July of that year.
+
+headqaurters
+Twitter Inc is based in San Francisco California and has more than 25 offices around the world.
+
+users per day
+By 2012 more than 100 million users posted 340 million tweets a day and the service handled an average of 16 billion search queries per day
+In 2013 it was one of the ten mostvisited websites and has been described as the SMS of the Internet By the start of 2019 Twitter had more than 330 million monthly active users
+In practice the vast majority of tweets are written by a minority of users.
+
+twitter deal
+On April 25 2022 the Twitter board of directors agreed to a 44 billion buyout by Elon Musk the CEO of SpaceX and Tesla potentially making it one of the biggest deals to turn a company private.
+
+history
+Twitters origins lie in a daylong brainstorming session held by board members of the podcasting company 
+Odeo Jack Dorsey then an undergraduate student at New York University introduced the idea of an individual 
+using an SMS service to communicate with a small group The original project code name for the service was twttr 
+the disemvowelled version of the word twitter an idea that Williams later ascribed to Noah Glass inspired by Flickr and the fivecharacter length of American SMS short codes
+The decision was also partly due to the fact that the domain twittercom was already in use and it was six months after the launch of twttr that the crew purchased the domain
+and changed the name of the service to Twitter The developers initially considered 10958 as a short code but later changed it to 40404 for ease of use and memorability 
+Work on the project started on March 21 2006 when Dorsey published the first Twitter message at 1250 pm PST UTC−0800 just setting up my twttr Dorsey has explained the origin of the Twitter title.
+
+first prototype
+The first Twitter prototype developed by Dorsey and contractor Florian Weber was used as an internal service for Odeo employees
+The full version was introduced publicly on July 15 2006 
+In October 2006 Biz Stone Evan Williams Dorsey and other members of Odeo formed Obvious Corporation and acquired Odeo together with its assetsincluding Odeocom and Twittercomfrom the investors and shareholders Williams fired Glass who was silent about his part in Twitters startup until 2011
+Twitter spun off into its own company in April 2007 Williams provided insight into the ambiguity that defined this early period in a 2013 interview.
+
+
+Appearance and features
+Tweets are publicly visible by default but senders can restrict message delivery to only their followers Users can mute users they do not wish to interact with block accounts
+from viewing their tweets and remove accounts from their followers list Users can tweet via the Twitter website compatible external applications such as for smartphones or by 
+Short Message Service SMS available in certain countries138 Users may subscribe to other users tweetsthis is known as following and subscribers are known as followers or tweeps a
+portmanteau of Twitter and peeps Individual tweets can be forwarded by other users to their own feed a process known as a retweet In 2015 Twitter launched quote tweet originally 
+called retweet with comment a feature that allows users to add a comment to their retweet nesting one tweet in the other Users can also like formerly favorite individual tweets
+The counters for likes retweets and replies appear next to the respective buttons in timelines such as on profile pages and search results Counters for likes and retweets exist on 
+a tweets standalone page too Since September 2020 quote tweets formerly known as retweet with comment have an own counter on their tweet page141 Until the legacy desktop front end
+that was discontinued in 2020 a row with miniature profile pictures of up to ten liking or retweeting users was displayed earliest documented implementation in December 2011 overhaul 
+as well as a tweet reply counter next to the according button on a tweets page.
+
+Hashtags, usernames, retweets and replies
+Users can group posts together by topic or type by use of hashtags – words or phrases prefixed with a "#" sign
+Similarly, the "@" sign followed by a username is used for mentioning or replying to other users.
+
+Polls
+In 2015, Twitter began to roll out the ability to attach poll questions to tweets Polls are open for up to 7 days, and voters are not personally identified.
+
+Twitter Blue feature
+On June 3 2021 Twitter announced a paid subscription service known as Twitter Blue which provides additional premium features to the service
+Undo Tweet which allows users to withdraw a tweet within a short time frame before it is posted
+Bookmarks which allows users to save individual tweets into folders
+Reader mode which converts threads of tweets into an articlelike view
+A selection of color themes and app icons for the Twitter mobile app
+Dedicated customer support
+NFT profile pictures added on January 20 2022 They are displayed in a hexagonshaped frame rather than circular like other profile pictures
+An edit feature for tweets is in development.
+
+Ads
+people advertise their recruiting services, consulting businesses, and retail stores by using Twitter, and it works The modern internet-savvy 
+user has grown tired of television advertisements People prefer advertising that is fast, less intrusive, and can be turned on or off at will Twitter is precisely
+that; when you learn how the nuances of tweeting work, you can get good advertising results by using Twitter.
+
+create a account
+To create a account, go to the Twitter website or download the Twitter app, then select Sign up or Create account Enter the requested information, and then verify
+your account via text or email the app will walk you through setting up your profile.
+
+delete a profile
+To delete a profile, go to More > Settings and Privacy > Your Account > Deactivate your account You can reactivate Twitter within 30 days After 30 days, your account is deleted.
+
+hide your tweets
+To hide your tweets from the general public, go to More > Settings and Privacy > Your Account > Account Information > Protected Tweets > Protect My Tweets.
+
+requirements
+All you need to use Twitter is an internet connection or a mobile phone.
+
+tweeting
+A Tweet is any message posted to Twitter which may contain photos, videos, links, and text
+Click or tap the Tweet button to post the update to your profile.
+
+followers
+people you know follow you and receive your tweets in their feeds Let your friends know you are on the platform to build up a following slowly When people follow you, etiquette calls for you to follow them back.
